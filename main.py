@@ -4,7 +4,7 @@ import cProfile
 
 
 def build_square_numbers(n):
-    print(hi)
+    print("hi")
     for i in range(n):
         yield i*i
 
